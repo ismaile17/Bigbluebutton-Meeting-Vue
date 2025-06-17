@@ -1,0 +1,4 @@
+{
+    "apiBaseUrl": "http://localhost:5289/api",
+    "apiKey": "your_development_api_key",
+    "lang":"tr-TR"}
