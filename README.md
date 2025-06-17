@@ -1,6 +1,8 @@
 🖥️ Bigbluebutton-Meeting-Vue
 A powerful and user-friendly frontend interface built with Vue 3 + TypeScript to interact with the Bigbluebutton-Meeting-Api (https://github.com/ismaile17/Bigbluebutton-Meeting-Api). Designed for online education, corporate training, and meeting management platforms.
 
+> 🔗 **Backend API Project:** [Bigbluebutton-Meeting-Api](https://github.com/ismaile17/Bigbluebutton-Meeting-Api)
+
 🎯 Purpose
 This project provides a complete frontend layer to:
 
@@ -127,6 +129,14 @@ Notifications & confirmations (via useNotification.ts)
 Error fallback routes and redirections
 
 Dark/light theme potential via CSS vars
+
+![UI Preview](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue/blob/main/src/assets/images/1.jpg)
+
+![UI Preview](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue/blob/main/src/assets/images/2.jpg)
+
+![UI Preview](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue/blob/main/src/assets/images/3.jpg)
+
+![UI Preview](https://github.com/ismaile17/Bigbluebutton-Meeting-Vue/blob/main/src/assets/images/4.jpg)
 
 📄 License
 MIT — free to use, extend, and adapt for your platform.
